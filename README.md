@@ -1,10 +1,10 @@
 ## lyrical
 
 # Overview
-This is the implementation of an algorithm to sort and track song lyrics. The project will feature an implementation of a RadixSort using a Radix Tree (or N-ary Tree). This project is currently in phase 1 and is Work In Progress...
+This is the implementation of an algorithm to sort and track song lyrics. The project will feature an implementation of a RadixSort using a Radix Tree (or N-ary Tree). This project is currently in phase 1.
 
 # v1.0
-Finish implementing the Radix Tree. Read in a txt file with lyrics from a single song.
+Finish implementing the original code from 2017 including the Radix Tree. Read in a txt file with lyrics from a single song.
 
 # v2.0
 Create a more robust dataset with various songs across genres.
